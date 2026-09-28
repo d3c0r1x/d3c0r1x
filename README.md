@@ -56,3 +56,13 @@
 ## Портфолио
 
 Все 12 учебных проектов: [learning-projects](https://github.com/d3c0r1x/learning-projects)
+
+## 🇬🇧 About me in English
+
+**AI vibe coder & prototyper.** I take prototypes and MVPs from idea to a working product on my own, using AI tools: Cursor, ChatGPT, OpenRouter and other LLMs. Idea → prompt → working code → debugging → shipped service.
+
+**What I do:** AI services and workflow automation · external API and AI model integration (OpenRouter, YandexGPT, OpenAI-compatible APIs, Ollama) · Telegram bots and Telegram Mini Apps · Python/FastAPI backends · LLM, Vision models and prompt engineering · MVP development from idea to working prototype · debugging and refactoring AI-generated code · marketplace integrations with Ozon, Wildberries and Yandex Market data.
+
+**Key projects:** [Smart Shopper](https://github.com/d3c0r1x/smart-shopper) (LLM shopping assistant: search by text and photo across marketplaces, Telegram bot + Mini App) · [Marketplace Price Compare](https://github.com/d3c0r1x/marketplace-price-compare) (parallel price comparison across WB, Ozon and Yandex Market) · [AI Review Analyst](https://github.com/d3c0r1x/ai-review-analyst) (LLM-based review analysis with strict JSON schemas) · [Ozon Price Tracker](https://github.com/d3c0r1x/ozon-price-tracker) (price and stock monitoring with alerts) · [Telegram Stars Payment Gateway](https://github.com/d3c0r1x/telegram-stars-payment-gateway) (subscriptions and paid access in Telegram).
+
+**Full portfolio:** [landing page](https://d3c0r1x.github.io/d3c0r1x/) · [all repositories](https://github.com/d3c0r1x?tab=repositories)

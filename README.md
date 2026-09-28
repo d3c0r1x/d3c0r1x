@@ -1,5 +1,9 @@
 # Привет, я d3c0r1x 👋
 
+![](https://komarev.com/ghpvc/?username=d3c0r1x&color=58a6ff&style=flat-square&label=визиты)
+![](https://img.shields.io/badge/repos-19-2d333b?style=flat-square)
+![](https://img.shields.io/badge/focus-AI%20MVP-58a6ff?style=flat-square)
+
 **AI вайб-кодер и прототипист.** Самостоятельно довожу прототипы и MVP от идеи до рабочего продукта, используя AI-инструменты: Cursor, ChatGPT, OpenRouter и другие LLM. Идея → промпт → рабочий код → отладка → работающий сервис.
 
 ## Чем я занимаюсь
@@ -59,7 +63,10 @@
 
 ## Портфолио
 
-Все 12 учебных проектов: [learning-projects](https://github.com/d3c0r1x/learning-projects)
+Все 12 учебных проектов: [learning-projects](https://github.com/d3c0r1x/learning-projects) · [лендинг](https://d3c0r1x.github.io) · [PDF-резюме](portfolio.pdf)
+
+![](https://github-readme-stats.vercel.app/api?username=d3c0r1x&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=e6edf3)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=d3c0r1x&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3)
 
 ## 🇬🇧 About me in English
 

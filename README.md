@@ -57,6 +57,20 @@ receipt readers reconciled by arithmetic, median-based price tracking, honest
 statements of what a report does *not* prove, one owner for every shared number
 so the bot, the weekly digest and the panel can't disagree.
 
+### ⚙️ [AI Automation Platform](https://github.com/d3c0r1x/ai-automation-platform)
+
+**An agent that runs the task, not just describes it.** "Find 20 items in
+category X under 5000 ₽, compare them, pick 5, build a table and send it" — the
+platform plans tool calls, validates the plan before running it, executes against
+APIs and a browser, pauses for human approval before anything leaves the machine,
+and returns a report. Every step, argument and decision is visible.
+
+*What it shows:* architecture where the plan is data, execution survives a
+crash, and irreversible steps need a person. FastAPI + PostgreSQL + Redis +
+background workers + pydantic tool schemas + Playwright + React dashboard +
+Docker + CI that also runs the full PostgreSQL+Redis path. Works end-to-end with
+no API keys: the deterministic planner takes over and the report says so.
+
 ## Second tier
 
 | Project | What it covers |
